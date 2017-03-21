@@ -1,0 +1,50 @@
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.exe
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.pdb
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Main.resources
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Properties.Resources.resources
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.exe
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Resources.Strings.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Forms.InstallGame.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Forms.Playing.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Forms.CloseSamp.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\SAMPAPI.dll
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\SAMPAPI.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Forms.CloseSamp.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Forms.InstallGame.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Forms.Playing.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Main.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Resources.Strings.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.csproj.GenerateResource.Cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Properties.Resources.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Resources.LauncherImages.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.csproj.ResolveComReference.cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Resources.Icons.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Launcher.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.Resources.Sites.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\bin\Debug\AnimeFantasyLauncher.exe.config
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\AnimeFantasyLauncher\AnimeFantasyLauncher\obj\x86\Debug\AnimeFantasyLauncher.csprojResolveAssemblyReference.cache
