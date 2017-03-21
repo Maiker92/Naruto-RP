@@ -1,0 +1,51 @@
+﻿[03/10/2015 03:53] Options Form:
+
++ Program:
+Load server list at start
+Save login details
+Fix
+Uninstall
+
++ Game:
+GTA Path
+AF Path
+SAMP Nickname
+SAMP CFG
+Toggle mods (clouds, etc...)
+
++ Audio:
+Main volume
+Reset to defaults
+Toggle 3D sounds
+Test sound
+Test 3D sound
+Music
+SFX
+Voice
+Notifications
+System sounds
+
++ Interface:
+Name tags format
+Show tips
+Show map
+Show ping
+Show fps
+Show soundtracks
+Show movie info
+Camera default distance
+Targeting color sets
+
++ Control:
+Auto disable joypad
+Reset to defaults
+Key bindings
+
++ History:
+Chat log
+Connection log
+Automatically delete logs
+
++ Notifications:
+Toggle notifications
+List of notifications
